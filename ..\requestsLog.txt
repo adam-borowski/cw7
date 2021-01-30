@@ -1,0 +1,52 @@
+Method: GET; Path: /; QueryString: ; Body: ;
+Method: POST; Path: /api/enrollments; QueryString: ; Body: {"IndexNumber":"s12345","FirstName":"Adam","LastName":"Borowski", "Studies": "Informatyka", "BirthDate": "2021-01-01"};
+Method: POST; Path: /api/enrollments; QueryString: ; Body: {"IndexNumber":"s12345","FirstName":"Adam","LastName":"Borowski", "Studies": "Informatyka", "BirthDate": "2021-01-01"};
+Method: POST; Path: /api/enrollments; QueryString: ; Body: {"IndexNumber":"s12345","FirstName":"Adam","LastName":"Borowski", "Studies": "Informatyka", "BirthDate": "2021-01-01"};
+Method: GET; Path: /; QueryString: ; Body: ;
+Method: POST; Path: /api/enrollments; QueryString: ; Body: {"IndexNumber":"s12345","FirstName":"Adam","LastName":"Borowski", "Studies": "Informatyka", "BirthDate": "2021-01-01"};
+Method: GET; Path: /; QueryString: ; Body: ;
+Method: POST; Path: /api/enrollments; QueryString: ; Body: {"IndexNumber":"s12345","FirstName":"Adam","LastName":"Borowski", "Studies": "Informatyka", "BirthDate": "2021-01-01"};
+Method: POST; Path: /api/enrollments; QueryString: ; Body: {"IndexNumber":"s12345","FirstName":"Adam","LastName":"Borowski", "Studies": "Informatyka", "BirthDate": "2021-01-01"};
+Method: POST; Path: /api/enrollments; QueryString: ; Body: {"IndexNumber":"s12345","FirstName":"Adam","LastName":"Borowski", "Studies": "Informatyka", "BirthDate": "2021-01-01"};
+Method: POST; Path: /api/enrollments; QueryString: ; Body: {"IndexNumber":"s12345","FirstName":"Adam","LastName":"Borowski", "Studies": "Informatyka", "BirthDate": "2021-01-01"};
+Method: POST; Path: /api/enrollments; QueryString: ; Body: {"IndexNumber":"s12345","FirstName":"Adam","LastName":"Borowski", "Studies": "Informatyka", "BirthDate": "2021-01-01"};
+Method: POST; Path: /api/enrollments; QueryString: ; Body: ;
+Method: GET; Path: /; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: POST; Path: /api/enrollments; QueryString: ; Body: ;
+Method: POST; Path: /api/enrollments; QueryString: ?Index=s18164; Body: ;
+Method: POST; Path: /api/enrollments; QueryString: ; Body: ;
+Method: POST; Path: /api/enrollments; QueryString: ; Body: {
+    "IndexNumber": "s18164",
+    "FirstName": "Jan",
+    "LastName": "Kowalski",
+    "BirthDate": "2000-01-01"
+};
+Method: POST; Path: /api/enrollments; QueryString: ; Body: {
+    "IndexNumber": "s18164",
+    "FirstName": "Jan",
+    "LastName": "Kowalski",
+    "BirthDate": "2000-01-01"
+    "Studies": "Informatyka"
+};
+Method: POST; Path: /api/enrollments; QueryString: ; Body: {
+    "IndexNumber": "s18164",
+    "FirstName": "Jan",
+    "LastName": "Kowalski",
+    "BirthDate": "2000-01-01",
+    "Studies": "Informatyka"
+};
+Method: POST; Path: /api/enrollments; QueryString: ; Body: {
+    "IndexNumber": "s18164",
+    "FirstName": "Jan",
+    "LastName": "Kowalski",
+    "BirthDate": "2000-01-01",
+    "Studies": "Informatyka"
+};
+Method: POST; Path: /api/enrollments; QueryString: ; Body: {
+    "IndexNumber": "s18165",
+    "FirstName": "Jan",
+    "LastName": "Kowalski",
+    "BirthDate": "2000-01-01",
+    "Studies": "Informatyka"
+};

@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/adam/studia/APBD/Cw7/Cw7.csproj": {}
+  },
+  "projects": {
+    "/home/adam/studia/APBD/Cw7/Cw7.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/adam/studia/APBD/Cw7/Cw7.csproj",
+        "projectName": "Cw7",
+        "projectPath": "/home/adam/studia/APBD/Cw7/Cw7.csproj",
+        "packagesPath": "/home/adam/.nuget/packages/",
+        "outputPath": "/home/adam/studia/APBD/Cw7/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/adam/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/3.1.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
