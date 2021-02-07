@@ -50,3 +50,17 @@ Method: POST; Path: /api/enrollments; QueryString: ; Body: {
     "BirthDate": "2000-01-01",
     "Studies": "Informatyka"
 };
+Method: POST; Path: /api/enrollments; QueryString: ; Body: {
+    "IndexNumber": "s18165",
+    "FirstName": "Jan",
+    "LastName": "Kowalski",
+    "BirthDate": "2000-01-01",
+    "Studies": "Informatyka"
+};
+Method: POST; Path: /api/enrollments; QueryString: ; Body: {
+    "IndexNumber": "s18165",
+    "FirstName": "Jan",
+    "LastName": "Kowalski",
+    "BirthDate": "2000-01-01",
+    "Studies": "Informatyka"
+};
